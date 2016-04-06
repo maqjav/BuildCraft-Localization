@@ -100,15 +100,15 @@ config.display.colorBlindMode=Modo daltónico
 config.display.hideFluidValues=Ocultar números de fluidos
 config.display.hidePowerValues=Ocultar números de energía
 
-config.experimental.kinesisPowerLossOnTravel=Perdida de energía en tuberías kinésicas
+config.experimental.kinesisPowerLossOnTravel=Perdida de energía en tuberías quinéticas
 
 config.general.boards.blacklist=Lista negra para Robots
 config.general.pumpsConsumeWater=Bombas consumen agua
 config.general.updateCheck=Buscar actualizaciones
-config.general.fuel.fuel.combustion=Multiplicador de combustible en Motores de combustión
-config.general.fuel.oil.combustion=Multiplicador de petróleo en Motores de combustión
-config.general.fuel.fuel.combustion.energyOutput=Energía producida con combustible en Motores de combustión
-config.general.fuel.oil.combustion.energyOutput=Energía producida con petróleo en Motores de combustión
+config.general.fuel.fuel.combustion=Multiplicador Motores de combustión (combustible)
+config.general.fuel.oil.combustion=Multiplicador Motores de combustión (petróleo)
+config.general.fuel.fuel.combustion.energyOutput=Energía Motores de combustión (combustible)
+config.general.fuel.oil.combustion.energyOutput=Energía Motores de combustión (petróleo)
 config.general.itemLifespan=Duración de objetos (segundos)
 config.general.canEnginesExplode=Explosión de Motores
 config.general.oilCanBurn=Arder petróleo
